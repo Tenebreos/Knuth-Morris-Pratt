@@ -1,7 +1,7 @@
-CC			= g++
+CC		= g++
 CFLAGS		= -Wall -Wextra -g -std=gnu++17 -static
 
-OBJ			= main.o func.o
+OBJ		= main.o func.o
 
 EXEC_NAME	= KnuthMorrisPratt
 
